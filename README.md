@@ -3,16 +3,16 @@
 **Challenge 5 · AI Innovation for Public Services & Citizen-Centric Governance · Domain: Healthcare**
 MPOnline Idea & Innovation Hackathon 2026
 
-### 🌐 Live demo: **https://medreach-2.onrender.com**
+### 🌐 Live demo: **https://medreach1.netlify.app**
 
 | Open | Link |
 |---|---|
-| 🏠 Home page | https://medreach-2.onrender.com |
-| 🔐 Sign in (citizen / hospital staff) | https://medreach-2.onrender.com/login |
-| 👤 Citizen dashboard | https://medreach-2.onrender.com/citizen |
-| 🏥 Hospital dashboard | https://medreach-2.onrender.com/hospital |
-| 🚨 Report emergency (no login) | https://medreach-2.onrender.com/report |
-| 🚑 108 practice control room | https://medreach-2.onrender.com/practice-cad |
+| 🏠 Home page | https://medreach1.netlify.app |
+| 🔐 Sign in (citizen / hospital staff) | https://medreach1.netlify.app/login |
+| 👤 Citizen dashboard | https://medreach1.netlify.app/citizen |
+| 🏥 Hospital dashboard | https://medreach1.netlify.app/hospital |
+| 🚨 Report emergency (no login) | https://medreach1.netlify.app/report |
+| 🚑 108 practice control room | https://medreach1.netlify.app/practice-cad |
 | 📑 **Final presentation (Team Alpha, PDF)** | [submission/Medreach-Final-Presentation-Team-Alpha.pdf](submission/Medreach-Final-Presentation-Team-Alpha.pdf) |
 
 > Free Render plan: the first visit after 15 idle minutes takes about 30–50 seconds to wake up. Open the link a minute before presenting.
